@@ -1,0 +1,227 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+
+\usepackage{enumitem}
+\setlist{nosep}
+\setlist[itemize,1]{label=$*$}
+
+\name{Morgan Holland} % Your name
+\address{601-572-7025 \\ morganbholland@gmail.com \\ 2750 Old Saint Augustine Rd. D33 Tallahassee, FL 32301} % Your phone number and email
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Florida State University, COSSPP} \hfill {\em 2022 (expected)} \\ 
+Doctorate of Philosophy in Economics \\
+
+{\bf University of South Carolina, Moore School of Business} \hfill {\em 2015} \\
+Master of Arts in Economics \\
+
+{\bf Mississippi College, School of Business} \hfill {\em 2010}\\
+Bachelor of Science in Business Administration
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Research Experience}
+    \begin{rSubsection}{Economics of Automation}{}{}{}
+        \item Crafted literature reviews on the economics of automation, substitution between labor and capital in economic models, and optimal capital taxation
+        \item Developed task-based growth models investigating the relationship between automation, political economy, and economic growth and inequality.
+        \item Investigated the relationship between automation and real business cycles using a dynamic stochastic general equilibrium (DSGE) model.
+        \item Used log-linearization and value function iteration solution methods for DSGE models
+    \end{rSubsection}
+
+    \begin{rSubsection}{The Option Value of Intermediate Payments in Relationship Banking}{}{}{}
+        \item Developed a multiperiod optimal debt model to investigate the role of intermediate payments
+        \item Employed numerical techniques to solve the model, including 
+        \begin{itemize}
+            \item adaptive Gauss-Kronrod and adaptive cubature algorithms for numerical integration
+            \item Newton with Trust Region and BFGS algorithms for maximizing continuous functions
+            \item Nelder-Mead algorithm for maximizing discontinuous functions
+        \end{itemize}
+    \end{rSubsection}
+
+    \begin{rSubsection}{Other Research}{}{}{}
+        \item Investigated trends and links between availability and use of credit and real business cycles using multivariate time-series methods.
+        \item Analyzed factors contributing to recidivism in South Carolina prisons using survival analysis methods.
+    \end{rSubsection}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	TEACHING EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Teaching Experience}
+    \begin{rSubsection}{Analysis of Economic Data}{4 semesters}{}{}
+        \item Developed custom instruction materials for statistics focusing on economic data and preparation for Introduction to Econometrics
+        \item Integrated R programming to teach students data management and statistical analysis.
+        \item Taught fundamental knowledge needed to understand data, including probability theory, graphical and sample techniqes for generating hypotheses, hypothesis testing using sample means, and using linear regression. 
+        \item Engaged with students using real-world examples of using data analysis to answer economic questions
+    \end{rSubsection}
+    \begin{rSubsection}{Introduction to Econometrics}{2 semesters}{}{}
+        \item Introduced students to using linear regression in econometric analysis
+        \item Taught hypothesis testing in linear regression, including the fundamental assumptions needed for causality
+        \item Explored alternative methods to ameliorate violations of the linear regression assumptions
+        \item 
+        
+    \end{rSubsection}
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Work Experience}
+
+
+
+\begin{rSubsection}{Florida State University}{May 2017 - June 2021}{Instructor/Teaching Assistant}{Tallahassee, FL}
+    \item Taught undergraduate level statistics and econometrics in person and online. 
+    \item Integrated statistical software with course materials.
+    \item Developed custom instruction materials for statistics focusing on economic data and econometric analysis.
+    \item Assisted faculty in developing course materials, class management, and grading.
+
+\end{rSubsection}
+
+\begin{rSubsection}{Florida State University}{August 2015 - May 2019}{Research Assistant}{Tallahassee, FL}
+    \item Proposed and developed economic research projects both individually and in collaboration with faculty.
+    \item Compiled, cleaned, and analyzed data from Federal and international agencies to generate and investigate research hypotheses. Data analysis methods included
+    \begin{itemize}
+        \item Single and multivariate time series methods for detecting trends and relationships between economic indicators
+        \item Panel methods for causal analysis, including fixed effects and difference-in-differences
+        \item Nonlinear methods including limited dependent variables (i.e Tobit, Probit, logistic regression) and hazard modelling (nonproportional Weibull models)
+    \end{itemize}
+    \item Developed mathematical economic models for research projects investigating
+    \begin{itemize}
+        \item The relationship between 
+        \item The relationship between Real Business Cycles and automation.
+        \item Moral hazard and monitoring in relationship banking.
+    \end{itemize}
+    \item Employed numerical techniques to solve economic modelling problems. Methods include 
+    \begin{itemize}
+        \item Adaptive Gauss-Kronrod quadrature for single-variable numerical integration, 
+        \item Adaptive cubature for multivariate integration
+        \item Newton with trust region, BFGS algorithms for local optimization of continuous functions
+        \item Nelder-Mead algorithm for local optimization of discontinuous functions 
+        \item Log-linearization and value function iteration techniques for solving dynamic stochastic general equilibrium models
+    \end{itemize} 
+    
+\end{rSubsection}
+    
+    %------------------------------------------------
+
+%------------------------------------------------
+
+\begin{rSubsection}{University of South Carolina}{September 2013 - December 2013}{Research Assistant}{Columbia, SC}
+    \item Located and retrieved ownership data from Initial Public Offering (IPO) prospectuses.
+    \item Constructed custom spreadsheets of IPO data.
+    \item Performed literature searches for scholarly articles on several subjects related to corporate finance.
+\end{rSubsection}
+%------------------------------------------------
+
+\begin{rSubsection}{South Carolina Office of Regulatory Staff}{July 2012 - September 2013}{Auditor}{Columbia, SC}
+    \item Advocated on behalf of the public in utility rate case proceedings before the South Carolina Public Service Commission.
+    \item Audited utility rate case filings to verify the accuracy of financial data.
+    \item Recommended adjustments to test-year revenue requirement analyses based on company financial data and rate case filings.
+    \item Crafted written testimony to be filed with the South Carolina Public Service Commission.
+    \item Reviewed nuclear plant construction invoices for compliance with the South Carolina Base Load Review Act and consistency with company financial documents.
+    \item Examined telecommunications company filings and financial documents for compliance with telecommunications law.
+
+\end{rSubsection}
+%------------------------------------------------
+
+\begin{rSubsection}{Mississippi Department of Finance and Administration}{January 2011-July 2012}{Accountant/Auditor}{Jackson, MS}
+    \item Pre-audited payments to State Treasurer for errors.
+    \item Assisted state agencies in completing payments to the State Treasury.
+    \item Approved transactions in a computerized accounting system.
+    \item Verified accuracy of daily deposits to the State Treasury.
+
+
+\end{rSubsection}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	COMPUTER PROFICIENCIES SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Computer Proficiencies}
+
+\begin{rSubsection}{Programming}{}{}{}
+    \item {\em Expert}: R, Julia
+    \item {\em Intermediate}: Matlab, Stata 
+    \item {\em Beginner}: Python (Numpy, Pandas)
+\end{rSubsection}
+
+\begin{rSubsection}{Spreadsheet and Database}{}{}{}
+    \item {\em Intermediate}: Excel 
+    \item {\em Beginner}: SQL, MongoDB, JSON
+\end{rSubsection}
+
+\begin{rSubsection}{Document and Presentation Creation, Literate Programming}{}{}{}
+    \item \LaTeX, Lyx, Rweave, Rmarkdown, Jupyter, Word, Powerpoint
+\end{rSubsection}
+
+\begin{rSubsection}{Version Control}{}{}{}
+    \item GitHub
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Academic Research
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Academic Research}
+
+\begin{rSubsection}{Working Papers}{}{}{}
+    \item {\em Growth, Income Distribution, and Political Economy Implications of Automation} (With Manoj Atolia and Jonathan Kreamer)
+    \item {\em The Option Value of Monitoring in Relationship Banking}
+\end{rSubsection}
+
+\begin{rSubsection}{Works in Progress}{}{}{}
+    \item {\em The Effect of the Americans with Disabilities Act on Earnings and Employment Outcomes for People with Disabilities: An Intersectional Approach}
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Miscellaneous 
+%----------------------------------------------------------------------------------------
+
+% \begin{rSection}{}
+
+% Section content\ldots
+
+% \end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}

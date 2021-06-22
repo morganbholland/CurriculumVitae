@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.21)  22 JUN 2021 12:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.21)  22 JUN 2021 16:50
 entering extended mode
-**c:/Users/morga/Documents/GitHub/CurriculumVitae/cv_4.tex
-(c:/Users/morga/Documents/GitHub/CurriculumVitae/cv_4.tex
+**c:/Users/morga/Documents/GitHub/CurriculumVitae/Morgan_Holland_CV.tex
+(c:/Users/morga/Documents/GitHub/CurriculumVitae/Morgan_Holland_CV.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-06-18> (resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
@@ -65,27 +65,35 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks18
- (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+ (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip51
+\enit@outerparindent=\dimen149
+\enit@toks=\toks19
+\enit@inbox=\box52
+\enit@count@id=\count194
+\enitdp@description=\count195
+) (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count194
-\l__pdf_internal_box=\box52
-) (cv_4.aux)
-\openout1 = `cv_4.aux'.
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box53
+) (Morgan_Holland_CV.aux)
+\openout1 = `Morgan_Holland_CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -122,41 +130,41 @@ LaTeX Font Info:    ... okay on input line 30.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 30.
+(Font)              <10.95> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 30.
+(Font)              <8> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 30.
+(Font)              <6> on input line 34.
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 30--30
+Overfull \hbox (30.0pt too wide) in paragraph at lines 34--34
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--40
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
 
  []
 
 [1
 
-{C:/Users/morga/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] (cv_4.aux) ) 
+{C:/Users/morga/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] (Morgan_Holland_CV.aux) ) 
 Here is how much of TeX's memory you used:
- 1773 strings out of 478838
- 27487 string characters out of 2848020
- 342203 words of memory out of 3000000
- 19748 multiletter control sequences out of 15000+600000
+ 2096 strings out of 478838
+ 33111 string characters out of 2848020
+ 352839 words of memory out of 3000000
+ 20067 multiletter control sequences out of 15000+600000
  407429 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,5n,80p,624b,209s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,5n,80p,637b,260s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/morga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/morga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/morga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/morga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/morga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/morga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv_4.pdf (2 pages, 96216 bytes).
+Output written on Morgan_Holland_CV.pdf (3 pages, 101246 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
