@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.23)  23 JUN 2021 10:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.21)  23 JUN 2021 11:01
 entering extended mode
-**c:/Users/mholland/Documents/GitHub/CurriculumVitae/Morgan_Holland_CV.tex
-(c:/Users/mholland/Documents/GitHub/CurriculumVitae/Morgan_Holland_CV.tex
+**c:/Users/morga/Documents/GitHub/CurriculumVitae/Morgan_Holland_CV.tex
+(c:/Users/morga/Documents/GitHub/CurriculumVitae/Morgan_Holland_CV.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-06-18> (resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
-(C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+(C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-(C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+(C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
 File: size11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count182
@@ -21,21 +21,21 @@ File: size11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+) (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
- (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+ (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
- (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-) (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+) (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+) (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)) (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)) (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count190
-)) (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+)) (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \col@sep=\dimen139
 \ar@mcellbox=\box50
@@ -44,13 +44,13 @@ Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \extratabsurround=\skip49
 \backup@length=\skip50
 \ar@cellbox=\box51
-) (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+) (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
-)) (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+)) (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \Gm@cnth=\count191
@@ -65,7 +65,7 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks18
- (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+ (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip51
 \enit@outerparindent=\dimen149
@@ -73,7 +73,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box52
 \enit@count@id=\count194
 \enitdp@description=\count195
-) (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+) (C:\Users\morga\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count196
 \l__pdf_internal_box=\box53
@@ -152,16 +152,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--47
 
 [1
 
-{C:/Users/mholland/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] (Morgan_Holland_CV.aux) ) 
+{C:/Users/morga/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] (Morgan_Holland_CV.aux) ) 
 Here is how much of TeX's memory you used:
  2096 strings out of 478838
- 33264 string characters out of 2846598
+ 33111 string characters out of 2848020
  350839 words of memory out of 3000000
  20067 multiletter control sequences out of 15000+600000
  407429 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,5n,80p,640b,251s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+ 72i,5n,80p,637b,251s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/morga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/morga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/morga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/morga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/morga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/morga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on Morgan_Holland_CV.pdf (3 pages, 99890 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
