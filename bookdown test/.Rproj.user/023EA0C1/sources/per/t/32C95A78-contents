@@ -1,0 +1,43 @@
+---
+graphics: yes
+name: Morgan
+surname: Holland
+headcolor: 414141
+#qualifications: 
+position: "Senior Researcher"
+address: "2750 Old Saint Augustine Rd. Tallahassee, FL 32301"
+phone: "tbd"
+www: morganbholland.github.io
+email: "mbholland@fsu.edu"
+twitter: blank
+github: morganbholland
+linkedin: blank
+aboutme: |
+  I am a PhD candidate at Florida State University focused on Financial and Macroeconomics
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+csl: "csl/apa6-cv.csl"
+nocite: "@*"
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  - \fancyhead[R]{\thepage}
+knit: bookdown::render_book
+#bibliography_selected: "bib/selected.bib"
+bibliography_journals: "bib/journal.bib"
+bibliography_proceedings: "bib/proceedings.bib"
+bibliography_healthcare: "bib/healthcare.bib"
+bibliography_working_paper: "bib/working_paper.bib"
+bibliography_R_packages: "bib/R_packages.bib"
+bibliography_github_projects: "bib/github.bib"
+#given-name-pattern: JooYoung
+#family-name-pattern: Seo
+---
+
+```{r setup, include=FALSE, cache = FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(tidyverse)
+library(ezpickr)
+```
