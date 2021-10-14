@@ -43,6 +43,8 @@
 
 \usepackage[backend=biber, bibstyle = reading, entryhead=false]{biblatex}
 
+\setlength{\bibitemsep}{0.5pt}
+
 \defbibenvironment{bibliography}
 {\list
 	{}
@@ -50,7 +52,8 @@
 		\setlength{\itemindent}{0pt}%
 		\setlength{\itemsep}{0pt}%
 		\setlength{\topsep}{0pt}% 
-		\setlength{\parsep}{0pt}}}
+		\setlength{\parskip}{0pt}%
+		\setlength{\partopsep}{0pt}}}
 {\endlist}
 {\item}
 
@@ -187,35 +190,46 @@ marksyr=0.4ex,marksmo=0.2ex
 %----------------------------------------------------------------------------------------
 \section{Research}
 
-\begin{refsection}
-	\nocite{holland2021role}%		
-\cvitem{JMP}{%
-	\vspace{-\parskip}
-	\printbibliography[heading=none]%		
-		%\bibliographystyle{reading}
-		}
-\end{refsection}
+\cvitem{Job Market Paper}{\textbf{Morgan Holland}. \emph{The Role of Long-term and Short-term Risk in Relationship Banking}.\newline%
+Abstract: This paper explores the benefits firms may receive from relationship banking that arise from the information gleaned by banks through monitoring. If monitoring reveals not only current output, but also new information about future payoffs, lenders can shield themselves from future losses through early termination of lending agreements. In a competitive lending environment, banks shift the benefits of early termination to borrowers through the lending terms, improving not only the overall expected payoff of projects, but also the welfare of borrowers. Numerical results reveal that the benefits of long-term relationships based on the information revealed in monitoring could be substantial.}
 
+\cvitem{Working Paper}{Manoj Atolia, \textbf{Morgan Holland}, and Jonathan Kreamer. \emph{The Role of Long-term and Short-term Risk in Relationship Banking}.\newline%
+	Abstract: We study the distributional consequences of automation in a model with two kinds of agents --- workers, who supply labor, and entrepreneurs, who own capital. We assume that production involves tasks that can be done by either capital or labor with varying productivity. We conceptualize automation as a shift in the relative productivity of capital at certain tasks that reduces the set of tasks done by labor. We contrast this with ``traditional technical progress'', which is an increase in capital productivity at tasks previously done by capital. We derive a simple condition that governs whether labor share goes to zero in the long run, for given tax rates. We then characterize the distributional consequences of a shift in technology, using a tractable case that allows us to cleanly distinguish between automation and traditional technological progress. Finally, we endogenize the tax rate by computing the political economy equilibrium under majority voting, where the government has access to a capital tax and a transfer to workers (a ``universal basic income''). We give conditions for zero or positive capital taxation in the steady state, and conditions under which workers prefer that the labor share go to zero and they derive income wholly from the UBI.}
 
+\cvitem{Works in Progress}{\textbf{Morgan Holland} \emph{Wage, Wealth, and Income Inequality from Automation}.\newline
+Abstract: There are three distinct kinds of inequality affected by automation. \emph{Wage} inequality arises as the jobs performed by some workers are substituted by capital, while other jobs are created by, and complementary with capital. \emph{Income} inequality comes from not only wage inequality, but also higher returns to capital when automation occurs. Exacerbating income inequality is \emph{Wealth} inequality, where those with higher wages and income are able to invest in automation capital at higher rates. I build a task-based model of automation that incorporates all three kinds of inequality. I match this model to U. S. data to determine the impact automation has had on inequality and to predict how future automation could affect inequality in the future. Finally, I explore policy that could reduce inequality from automation.\newline%
+%\vspace{\baselineskip}%
+\newline
+Margaret Holland and \textbf{Morgan Holland} \emph{The Impact of the Americans with Disabilities Act on the Employment and Earnings of People with Disabilities: An Intersectional Approach}.\newline
+The Americans with Disabilities Act (ADA) was designed to decrease discrimination by employers against people with disabilities and thereby improve the earnings and employment of people with disabilities. Motivated by intersectionality, we use difference in differences to determine how the ADA affected disparities in employment and earnings differently for marginalized populations.}
 
-
-\subsection{Working Paper}
-\begin{refsection}
-\nocite{atolia2021growth}
-\printbibliography[segment=2, heading=none]
-\end{refsection}
-
-\subsection{Works In Progress}
-\begin{refsection}
-	\nocite{holland2021wage,holland2021impact}
-	\printbibliography[segment=3, heading=none]
-\end{refsection}
-
-\subsection{Industry and Consulting}
-\begin{refsection}
-	\nocite{holland2021florida, holland2021humana}
-	\printbibliography[segment=4, heading=none]
-\end{refsection}
+%\begin{refsection}
+%	\nocite{holland2021role}%		
+%\cvline{JMP}{%
+%	%\vspace{-\parskip}
+%	\printbibliography[heading=none]%		
+%		%\bibliographystyle{reading}
+%		}
+%\end{refsection}
+%
+%
+%\subsection{Working Paper}
+%\begin{refsection}
+%\nocite{atolia2021growth}
+%\printbibliography[segment=2, heading=none]
+%\end{refsection}
+%
+%\subsection{Works In Progress}
+%\begin{refsection}
+%	\nocite{holland2021wage,holland2021impact}
+%	\printbibliography[segment=3, heading=none]
+%\end{refsection}
+%
+%\subsection{Industry and Consulting}
+%\begin{refsection}
+%	\nocite{holland2021florida, holland2021humana}
+%	\printbibliography[segment=4, heading=none]
+%\end{refsection}
 
 
 \section{Teaching}
