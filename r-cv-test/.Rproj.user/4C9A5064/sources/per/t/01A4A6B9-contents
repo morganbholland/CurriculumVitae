@@ -1,0 +1,84 @@
+---
+name: Morgan
+surname: Holland
+position: "Senior Researcher"
+address: "2750 Old Saint Augustine Rd. Tallahassee, FL 32301"
+phone: +1 22 3333 4444
+www: morganbholland.github.io
+email: "mbholland@fsu.edu"
+#twitter: mariecurie
+github: morganbholland
+#linkedin: mariecurie
+date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  vitae::moderncv:
+    includes:
+      in_header: "C:/Users/mholland/Documents/GitHub/CurriculumVitae/r-cv-test/preamble.tex"
+# header-includes:
+#   - \usepackage{biblatex}
+#   - \defbibenvironment{bibliography}
+#   - {\list
+#       {\printtext[labelnumberwidth]{% label format from numeric.bbx
+#          \printfield{labelprefix}%
+#          \printfield{labelnumber}}}
+#       {\setlength{\topsep}{0pt}% layout parameters from moderncvstyleclassic.sty
+#        \setlength{\labelwidth}{\hintscolumnwidth}%
+#        \setlength{\labelsep}{\separatorcolumnwidth}%
+#        \leftmargin\labelwidth%
+#        \advance\leftmargin\labelsep}%
+#        \sloppy\clubpenalty4000\widowpenalty4000}
+#    {\endlist}
+#   - {\item}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+I am a PhD candidate in Economics at Florida State University specializing in Macroeconomics, Financial Economics, and Applied Econometrics
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Doctorate of Philosophy in Economics", "Expected 2022", "Florida State University", "Tallahassee, FL",
+  "Master of Arts in Economcis", "2014", "University of South Carolina, Moore School of Business", "Columbia, SC",
+  "Bachelor of Arts in Business Administration", "2010", "Mississippi College", "Clinton, MS",
+  "Associate of Arts in Business Administration", "2009", "Meridian Community College", "Meridian, MS"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+
+
+# Research
+
+## Job Market Paper
+
+```{r}
+library(dplyr)
+#knitr::write_bib(c("vitae", "tibble"), "JMP.bib")
+
+bibliography_entries("JMP.bib") %>%
+   arrange(desc(author$family), issued)# %>% as_tibble() %>% View() mutate(across(everything(), as.character)) %>% 
+  #detailed_entries(title, issued, author, note)
+```
+
+# Fellowships, Memberships, and Miscellaneous
+
+```{r}
+tribble(
+  ~Year, ~Type, ~Desc,
+  1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel",
+  1911, "Chemistry", "Awarded for the discovery of radium and polonium"
+) %>% 
+  brief_entries(
+    glue::glue("Nobel Prize in {Type}"),
+    Year, 
+    Desc
+  )
+```
+
