@@ -21,7 +21,7 @@
   \datalist[entry]{nty/global//global/global}
     \entry{holland2021role}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=94d9cadb93796d5cd68e97764f141717}{%
+        {{hash=94d9cadb93796d5cd68e97764f141717}{%
            family={\textbf{Morgan\bibnamedelimb Holland}},
            familyi={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
@@ -47,21 +47,19 @@
   \datalist[entry]{nty/global//global/global}
     \entry{atolia2021growth}{misc}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=7d357976babd06db2558896133af41a5}{%
+        {{hash=7d357976babd06db2558896133af41a5}{%
            family={Atolia},
            familyi={A\bibinitperiod},
            given={Manoj},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=94d9cadb93796d5cd68e97764f141717}{%
+           giveni={M\bibinitperiod}}}%
+        {{hash=94d9cadb93796d5cd68e97764f141717}{%
            family={\textbf{Morgan\bibnamedelimb Holland}},
            familyi={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=9c902cfa665304002b5eb32d6daf4afc}{%
+        {{hash=9c902cfa665304002b5eb32d6daf4afc}{%
            family={Kreamer},
            familyi={K\bibinitperiod},
            given={Jonathan},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod}}}%
       }
       \strng{namehash}{3bce9142e75ddbe9ab05ca216e885467}
       \strng{fullhash}{3bce9142e75ddbe9ab05ca216e885467}
@@ -85,13 +83,12 @@
   \datalist[entry]{nty/global//global/global}
     \entry{holland2021impact}{misc}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=3751b4e44f3a3fff1b0a5cf9be9dc81d}{%
+        {{hash=3751b4e44f3a3fff1b0a5cf9be9dc81d}{%
            family={Holland},
            familyi={H\bibinitperiod},
            given={Margaret},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=94d9cadb93796d5cd68e97764f141717}{%
+           giveni={M\bibinitperiod}}}%
+        {{hash=94d9cadb93796d5cd68e97764f141717}{%
            family={\textbf{Morgan\bibnamedelimb Holland}},
            familyi={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
@@ -111,7 +108,7 @@
     \endentry
     \entry{holland2021wage}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=94d9cadb93796d5cd68e97764f141717}{%
+        {{hash=94d9cadb93796d5cd68e97764f141717}{%
            family={\textbf{Morgan\bibnamedelimb Holland}},
            familyi={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
@@ -150,13 +147,12 @@
     \endentry
     \entry{holland2021humana}{misc}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=f50d76566a98258545d2ea6b086a6fcd}{%
+        {{hash=f50d76566a98258545d2ea6b086a6fcd}{%
            family={Harrington},
            familyi={H\bibinitperiod},
            given={Julie},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=94d9cadb93796d5cd68e97764f141717}{%
+           giveni={J\bibinitperiod}}}%
+        {{hash=94d9cadb93796d5cd68e97764f141717}{%
            family={\textbf{Morgan\bibnamedelimb Holland}},
            familyi={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
