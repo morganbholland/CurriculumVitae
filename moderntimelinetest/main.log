@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.10.4)  14 OCT 2021 09:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.10.4)  13 OCT 2021 09:52
 entering extended mode
 **./main.tex
 (main.tex
@@ -1049,12 +1049,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip95
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 140.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 140.
+Package hyperref Info: Option `breaklinks' set `true' on input line 137.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 137.
 \@quotelevel=\count423
 \@quotereset=\count424
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 14
-0.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 13
+7.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1062,26 +1062,26 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
-40.
+37.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1111,14 +1111,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 s.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \microtypecontext on input line 140.
+LaTeX Info: Redefining \microtypecontext on input line 137.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 140.
+LaTeX Info: Redefining \showhyphens on input line 137.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1186,9 +1186,9 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 140.
-Package biblatex Info: Reference segment=0 on input line 140.
-Package hyperref Info: Link coloring OFF on input line 140.
+Package biblatex Info: Reference section=0 on input line 137.
+Package biblatex Info: Reference segment=0 on input line 137.
+Package hyperref Info: Link coloring OFF on input line 137.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1203,16 +1203,16 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count431
 )
-LaTeX Info: Redefining \ref on input line 140.
-LaTeX Info: Redefining \pageref on input line 140.
-LaTeX Info: Redefining \nameref on input line 140.
+LaTeX Info: Redefining \ref on input line 137.
+LaTeX Info: Redefining \pageref on input line 137.
+LaTeX Info: Redefining \nameref on input line 137.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 \makecvtitledetailsbox=\box67
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-66.
+63.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1222,28 +1222,28 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-66.
+63.
  (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-166.
+163.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-166.
+163.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 166.
+(Font)              <10> on input line 163.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 166.
+(Font)              <7> on input line 163.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 166.
+(Font)              <5> on input line 163.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
@@ -1252,64 +1252,97 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 \makecvtitledetailswidth=\skip96
 \makecvtitlepicturewidth=\skip97
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 166.
+(Font)              <10.95> on input line 163.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 166.
+(Font)              <8> on input line 163.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 166.
+(Font)              <6> on input line 163.
+\blx@maxsegment@1=\count432
+\blx@sectionciteorder@1=\count433
+Package biblatex Info: Reference section=1 on input line 190.
+Package biblatex Info: Setting label 'refsection:1' on input line 190.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 194.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 196.
+Package biblatex Info: Reference section=0 on input line 197.
+\blx@maxsegment@2=\count434
+\blx@sectionciteorder@2=\count435
+Package biblatex Info: Reference section=2 on input line 203.
+Package biblatex Info: Setting label 'refsection:2' on input line 203.
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--204
 
- []
+Package biblatex Warning: Segment '2' not found in section '2' on input line 20
+5.
 
+Package biblatex Info: Reference section=0 on input line 206.
+\blx@maxsegment@3=\count436
+\blx@sectionciteorder@3=\count437
+Package biblatex Info: Reference section=3 on input line 209.
+Package biblatex Info: Setting label 'refsection:3' on input line 209.
 
-Underfull \hbox (badness 1024) in paragraph at lines 204--204
-\T1/lmss/m/n/10.95 (+20) Margaret Hol-land and \T1/lmss/bx/n/10.95 (+20) Mor-ga
-n Hol-land \T1/lmss/m/sl/10.95 (+20) The Im-pact of the Amer-i-cans with Dis-ab
-il-i-ties
- []
+Package biblatex Warning: Segment '3' not found in section '3' on input line 21
+1.
 
 [1
 
-{C:/Users/mholland/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
-[3] (main.aux)
+{C:/Users/mholland/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Package biblatex Info: Reference section=0 on input line 212.
+\blx@maxsegment@4=\count438
+\blx@sectionciteorder@4=\count439
+Package biblatex Info: Reference section=4 on input line 215.
+Package biblatex Info: Setting label 'refsection:4' on input line 215.
 
-LaTeX Warning: There were undefined references.
 
+Package biblatex Warning: Segment '4' not found in section '4' on input line 21
+7.
+
+
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 217.
+
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
+17.
+(C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package biblatex Info: Reference section=0 on input line 218.
+
+[2] [3] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7CE51DBBC448B53EDE4E53E0B8A34072;1077.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 0A18DD074F46E3E8D2DA271F5DCC033F;1520.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32151 strings out of 478864
- 600578 string characters out of 2847238
- 1423442 words of memory out of 3000000
- 49396 multiletter control sequences out of 15000+600000
- 476729 words of font info for 126 fonts, out of 8000000 for 9000
+ 32478 strings out of 478864
+ 607088 string characters out of 2847238
+ 1424911 words of memory out of 3000000
+ 49682 multiletter control sequences out of 15000+600000
+ 480822 words of font info for 137 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,12n,97p,1379b,807s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 100i,12n,97p,1379b,1529s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc
-}<C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.
-pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss
-12.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
-mss17.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
-m/lmssbx10.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/lm/lmsso10.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/lm/lmsso12.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/lm/lmsso17.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/marvosym/marvosym.pfb>
-Output written on main.pdf (3 pages, 198809 bytes).
+}<C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10
+.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lms
+s10.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
+lmss12.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+lm/lmss17.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/lm/lmssbx10.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/lm/lmsso10.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/lm/lmsso12.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/lm/lmsso17.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/lm/lmtt10.pfb><C:/Users/mholland/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on main.pdf (3 pages, 245302 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 41037 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 131 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 43621 words of extra memory for PDF output out of 51595 (max. 10000000)
 
