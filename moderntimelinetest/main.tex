@@ -41,18 +41,7 @@
 \usepackage{marvosym} % For cool symbols.
 %\usepackage{hyperref}
 
-\usepackage[backend=biber, bibstyle = reading, entryhead=false]{biblatex}
-
-\defbibenvironment{bibliography}
-{\list
-	{}
-	{\setlength{\leftmargin}{0pt}%
-		\setlength{\itemindent}{0pt}%
-		\setlength{\itemsep}{0pt}%
-		\setlength{\topsep}{0pt}% 
-		\setlength{\parsep}{0pt}}}
-{\endlist}
-{\item}
+\usepackage[bibstyle = reading, refsection=subsection, entryhead=false]{biblatex}
 
 %\defbibenvironment{bibliography}
 %{\list
@@ -187,13 +176,14 @@ marksyr=0.4ex,marksmo=0.2ex
 %----------------------------------------------------------------------------------------
 \section{Research}
 
-\begin{refsection}
-	\nocite{holland2021role}%		
-\cvitem{JMP}{%
-	\vspace{-\parskip}
-	\printbibliography[heading=none]%		
+{\begin{refsection}
+		
+\cvitem{Job Market Paper}{\nocite{holland2021role}
+	\vspace{-\baselineskip}
+	\printbibliography[heading=none, title = none]		
 		%\bibliographystyle{reading}
-		}
+		%
+}
 \end{refsection}
 
 

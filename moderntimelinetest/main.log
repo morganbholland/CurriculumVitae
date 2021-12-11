@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.10.4)  13 OCT 2021 09:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.23)  12 OCT 2021 15:42
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2021-06-01>
-L3 programming layer <2021-06-01> (moderncv.cls
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-06-18> (moderncv.cls
 Document Class: moderncv 2012/10/31 v1.2.0 modern curriculum vitae and letter d
 ocument class
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
@@ -19,7 +19,7 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xp
 arse.sty
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2021-06-01 L3 programming layer (loader) 
+Package: expl3 2021-06-18 L3 programming layer (loader) 
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
 pdftex.def
@@ -27,7 +27,7 @@ File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count183
 \l__pdf_internal_box=\box50
 ))
-Package: xparse 2021-06-01 L3 Experimental document command parser
+Package: xparse 2021-06-18 L3 Experimental document command parser
 )
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
@@ -329,26 +329,21 @@ Package: moderncvcolorblack 2012/10/31 v1.2.0 modern curriculum vitae and lette
 r color scheme: black
 )
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
-(C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\
-l3keys2e.sty
-Package: l3keys2e 2021-06-01 LaTeX2e option processing using LaTeX3 keys
-)
-Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count195
-\l__lipsum_a_int=\count196
-\l__lipsum_b_int=\count197
+Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.te
-x))
+x
+File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
+))
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
 y
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count198
-\Gm@cntv=\count199
-\c@Gm@tempcnt=\count266
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
 \Gm@bindingoffset=\dimen157
 \Gm@wd@mp=\dimen158
 \Gm@odd@mp=\dimen159
@@ -395,53 +390,53 @@ Package pdftexcmds Info: \pdfdraftmode found.
 )
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count267
+\lrq@indent=\count198
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count268
-\c@listtotal=\count269
-\c@listcount=\count270
-\c@liststart=\count271
-\c@liststop=\count272
-\c@citecount=\count273
-\c@citetotal=\count274
-\c@multicitecount=\count275
-\c@multicitetotal=\count276
-\c@instcount=\count277
-\c@maxnames=\count278
-\c@minnames=\count279
-\c@maxitems=\count280
-\c@minitems=\count281
-\c@citecounter=\count282
-\c@maxcitecounter=\count283
-\c@savedcitecounter=\count284
-\c@uniquelist=\count285
-\c@uniquename=\count286
-\c@refsection=\count287
-\c@refsegment=\count288
-\c@maxextratitle=\count289
-\c@maxextratitleyear=\count290
-\c@maxextraname=\count291
-\c@maxextradate=\count292
-\c@maxextraalpha=\count293
-\c@abbrvpenalty=\count294
-\c@highnamepenalty=\count295
-\c@lownamepenalty=\count296
-\c@maxparens=\count297
-\c@parenlevel=\count298
-\blx@tempcnta=\count299
-\blx@tempcntb=\count300
-\blx@tempcntc=\count301
-\blx@maxsection=\count302
-\blx@maxsegment@0=\count303
-\blx@notetype=\count304
-\blx@parenlevel@text=\count305
-\blx@parenlevel@foot=\count306
-\blx@sectionciteorder@0=\count307
-\blx@entrysetcounter=\count308
-\blx@biblioinstance=\count309
+\c@tabx@nest=\count199
+\c@listtotal=\count266
+\c@listcount=\count267
+\c@liststart=\count268
+\c@liststop=\count269
+\c@citecount=\count270
+\c@citetotal=\count271
+\c@multicitecount=\count272
+\c@multicitetotal=\count273
+\c@instcount=\count274
+\c@maxnames=\count275
+\c@minnames=\count276
+\c@maxitems=\count277
+\c@minitems=\count278
+\c@citecounter=\count279
+\c@maxcitecounter=\count280
+\c@savedcitecounter=\count281
+\c@uniquelist=\count282
+\c@uniquename=\count283
+\c@refsection=\count284
+\c@refsegment=\count285
+\c@maxextratitle=\count286
+\c@maxextratitleyear=\count287
+\c@maxextraname=\count288
+\c@maxextradate=\count289
+\c@maxextraalpha=\count290
+\c@abbrvpenalty=\count291
+\c@highnamepenalty=\count292
+\c@lownamepenalty=\count293
+\c@maxparens=\count294
+\c@parenlevel=\count295
+\blx@tempcnta=\count296
+\blx@tempcntb=\count297
+\blx@tempcntc=\count298
+\blx@maxsection=\count299
+\blx@maxsegment@0=\count300
+\blx@notetype=\count301
+\blx@parenlevel@text=\count302
+\blx@parenlevel@foot=\count303
+\blx@sectionciteorder@0=\count304
+\blx@entrysetcounter=\count305
+\blx@biblioinstance=\count306
 \labelnumberwidth=\skip73
 \labelalphawidth=\skip74
 \biblabelsep=\skip75
@@ -453,9 +448,9 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language79
-\c@mincomprange=\count310
-\c@maxcomprange=\count311
-\c@mincompwidth=\count312
+\c@mincomprange=\count307
+\c@maxcomprange=\count308
+\c@mincompwidth=\count309
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -466,74 +461,74 @@ Package biblatex Info: Trying to load biblatex bibstyle data model...
 Package biblatex Info: ... file 'reading.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count313
-\c@savedafterword=\count314
-\c@annotator=\count315
-\c@savedannotator=\count316
-\c@author=\count317
-\c@savedauthor=\count318
-\c@bookauthor=\count319
-\c@savedbookauthor=\count320
-\c@commentator=\count321
-\c@savedcommentator=\count322
-\c@editor=\count323
-\c@savededitor=\count324
-\c@editora=\count325
-\c@savededitora=\count326
-\c@editorb=\count327
-\c@savededitorb=\count328
-\c@editorc=\count329
-\c@savededitorc=\count330
-\c@foreword=\count331
-\c@savedforeword=\count332
-\c@holder=\count333
-\c@savedholder=\count334
-\c@introduction=\count335
-\c@savedintroduction=\count336
-\c@namea=\count337
-\c@savednamea=\count338
-\c@nameb=\count339
-\c@savednameb=\count340
-\c@namec=\count341
-\c@savednamec=\count342
-\c@translator=\count343
-\c@savedtranslator=\count344
-\c@shortauthor=\count345
-\c@savedshortauthor=\count346
-\c@shorteditor=\count347
-\c@savedshorteditor=\count348
-\c@labelname=\count349
-\c@savedlabelname=\count350
-\c@institution=\count351
-\c@savedinstitution=\count352
-\c@lista=\count353
-\c@savedlista=\count354
-\c@listb=\count355
-\c@savedlistb=\count356
-\c@listc=\count357
-\c@savedlistc=\count358
-\c@listd=\count359
-\c@savedlistd=\count360
-\c@liste=\count361
-\c@savedliste=\count362
-\c@listf=\count363
-\c@savedlistf=\count364
-\c@location=\count365
-\c@savedlocation=\count366
-\c@organization=\count367
-\c@savedorganization=\count368
-\c@origlocation=\count369
-\c@savedoriglocation=\count370
-\c@origpublisher=\count371
-\c@savedorigpublisher=\count372
-\c@publisher=\count373
-\c@savedpublisher=\count374
-\c@language=\count375
-\c@savedlanguage=\count376
-\c@origlanguage=\count377
-\c@savedoriglanguage=\count378
-\c@pageref=\count379
-\c@savedpageref=\count380
+\c@afterword=\count310
+\c@savedafterword=\count311
+\c@annotator=\count312
+\c@savedannotator=\count313
+\c@author=\count314
+\c@savedauthor=\count315
+\c@bookauthor=\count316
+\c@savedbookauthor=\count317
+\c@commentator=\count318
+\c@savedcommentator=\count319
+\c@editor=\count320
+\c@savededitor=\count321
+\c@editora=\count322
+\c@savededitora=\count323
+\c@editorb=\count324
+\c@savededitorb=\count325
+\c@editorc=\count326
+\c@savededitorc=\count327
+\c@foreword=\count328
+\c@savedforeword=\count329
+\c@holder=\count330
+\c@savedholder=\count331
+\c@introduction=\count332
+\c@savedintroduction=\count333
+\c@namea=\count334
+\c@savednamea=\count335
+\c@nameb=\count336
+\c@savednameb=\count337
+\c@namec=\count338
+\c@savednamec=\count339
+\c@translator=\count340
+\c@savedtranslator=\count341
+\c@shortauthor=\count342
+\c@savedshortauthor=\count343
+\c@shorteditor=\count344
+\c@savedshorteditor=\count345
+\c@labelname=\count346
+\c@savedlabelname=\count347
+\c@institution=\count348
+\c@savedinstitution=\count349
+\c@lista=\count350
+\c@savedlista=\count351
+\c@listb=\count352
+\c@savedlistb=\count353
+\c@listc=\count354
+\c@savedlistc=\count355
+\c@listd=\count356
+\c@savedlistd=\count357
+\c@liste=\count358
+\c@savedliste=\count359
+\c@listf=\count360
+\c@savedlistf=\count361
+\c@location=\count362
+\c@savedlocation=\count363
+\c@organization=\count364
+\c@savedorganization=\count365
+\c@origlocation=\count366
+\c@savedoriglocation=\count367
+\c@origpublisher=\count368
+\c@savedorigpublisher=\count369
+\c@publisher=\count370
+\c@savedpublisher=\count371
+\c@language=\count372
+\c@savedlanguage=\count373
+\c@origlanguage=\count374
+\c@savedoriglanguage=\count375
+\c@pageref=\count376
+\c@savedpageref=\count377
 \shorthandwidth=\skip81
 \shortjournalwidth=\skip82
 \shortserieswidth=\skip83
@@ -561,19 +556,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.de
 f
 File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
-\c@textcitecount=\count381
-\c@textcitetotal=\count382
-\c@textcitemaxnames=\count383
-\c@biburlbigbreakpenalty=\count384
-\c@biburlbreakpenalty=\count385
-\c@biburlnumpenalty=\count386
-\c@biburlucpenalty=\count387
-\c@biburllcpenalty=\count388
+\c@textcitecount=\count378
+\c@textcitetotal=\count379
+\c@textcitemaxnames=\count380
+\c@biburlbigbreakpenalty=\count381
+\c@biburlbreakpenalty=\count382
+\c@biburlnumpenalty=\count383
+\c@biburlucpenalty=\count384
+\c@biburllcpenalty=\count385
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count389
+\c@smartand=\count386
 )
 Package biblatex Info: Trying to load bibliography style 'reading'...
 Package biblatex Info: ... file 'reading.bbx' found.
@@ -587,8 +582,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standar
 d.bbx
 File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count390
-\c@bbx:relatedtotal=\count391
+\c@bbx:relatedcount=\count387
+\c@bbx:relatedtotal=\count388
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -675,14 +670,14 @@ eysfiltered.code.tex
 \pgf@yd=\dimen176
 \w@pgf@writea=\write4
 \r@pgf@reada=\read3
-\c@pgf@counta=\count392
-\c@pgf@countb=\count393
-\c@pgf@countc=\count394
-\c@pgf@countd=\count395
+\c@pgf@counta=\count389
+\c@pgf@countb=\count390
+\c@pgf@countc=\count391
+\c@pgf@countd=\count392
 \t@pgf@toka=\toks27
 \t@pgf@tokb=\toks28
 \t@pgf@tokc=\toks29
-\pgf@sys@id@count=\count396
+\pgf@sys@id@count=\count393
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
 f.cfg
@@ -701,8 +696,8 @@ File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
 fsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count397
-\pgfsyssoftpath@bigbuffer@items=\count398
+\pgfsyssoftpath@smallbuffer@items=\count394
+\pgfsyssoftpath@bigbuffer@items=\count395
 )
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
 fsysprotocol.code.tex
@@ -721,7 +716,7 @@ il.code.tex)
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpa
 rser.code.tex
 \pgfmath@dimen=\dimen177
-\pgfmath@count=\count399
+\pgfmath@count=\count396
 \pgfmath@box=\box56
 \pgfmath@toks=\toks30
 \pgfmath@stack@operand=\toks31
@@ -747,7 +742,7 @@ nctions.misc.code.tex)
 nctions.integerarithmetics.code.tex)))
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfl
 oat.code.tex
-\c@pgfmathroundto@lastzeros=\count400
+\c@pgfmathroundto@lastzeros=\count397
 ))
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.co
 de.tex)
@@ -787,7 +782,7 @@ File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box57
 \pgf@hbox=\box58
 \pgf@layerbox@main=\box59
-\pgf@picture@serial@count=\count401
+\pgf@picture@serial@count=\count398
 )
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
 coregraphicstate.code.tex
@@ -822,8 +817,8 @@ File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 coreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen257
-\pgf@sys@shading@range@num=\count402
-\pgf@shadingcount=\count403
+\pgf@sys@shading@range@num=\count399
+\pgf@shadingcount=\count400
 )
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
 coreimage.code.tex
@@ -897,7 +892,7 @@ Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfl
 ibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count404
+\pgf@plot@mark@count=\count401
 \pgfplotmarksize=\dimen262
 )
 \tikz@lastx=\dimen263
@@ -912,19 +907,19 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikz@figbox@bg=\box63
 \tikz@tempbox=\box64
 \tikz@tempbox@bg=\box65
-\tikztreelevel=\count405
-\tikznumberofchildren=\count406
-\tikznumberofcurrentchild=\count407
-\tikz@fig@count=\count408
+\tikztreelevel=\count402
+\tikznumberofchildren=\count403
+\tikznumberofcurrentchild=\count404
+\tikz@fig@count=\count405
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
 ulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count409
-\pgfmatrixcurrentcolumn=\count410
-\pgf@matrix@numberofcolumns=\count411
+\pgfmatrixcurrentrow=\count406
+\pgfmatrixcurrentcolumn=\count407
+\pgf@matrix@numberofcolumns=\count408
 )
-\tikz@expandcount=\count412
+\tikz@expandcount=\count409
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
 tikz/libraries\tikzlibrarytopaths.code.tex
@@ -932,7 +927,7 @@ File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))))
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.st
 y
-Package: hyperref 2021-06-05 v7.00l Hypertext links for LaTeX
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdef
 inekeys.sty
@@ -953,16 +948,16 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen271
-\Hy@linkcounter=\count413
-\Hy@pagecounter=\count414
+\Hy@linkcounter=\count410
+\Hy@pagecounter=\count411
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2021-06-05 v7.00l Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-la
 ngpatches.def
-File: hyperref-langpatches.def 2021-06-05 v7.00l Hyperref: patches for babel la
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
 nguages
 )
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.st
@@ -973,10 +968,10 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count415
+\Hy@SavedSpaceFactor=\count412
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2021-06-05 v7.00l Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -988,7 +983,7 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count416
+\c@Hy@tempcnt=\count413
 LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen272
 
@@ -1000,7 +995,7 @@ alc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count417
+\Fld@menulength=\count414
 \Field@Width=\dimen273
 \Fld@charsize=\dimen274
 Package hyperref Info: Hyper figures OFF on input line 6076.
@@ -1018,14 +1013,14 @@ y
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count418
-\c@Item=\count419
-\c@Hfootnote=\count420
+\Hy@abspage=\count415
+\c@Item=\count416
+\c@Hfootnote=\count417
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2021-06-05 v7.00l Hyperref driver for pdfTeX
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.s
 ty
@@ -1033,8 +1028,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count421
-\c@bookmark@seq@number=\count422
+\Fld@listcount=\count418
+\c@bookmark@seq@number=\count419
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerun
 filecheck.sty
@@ -1049,12 +1044,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip95
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 137.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 137.
-\@quotelevel=\count423
-\@quotereset=\count424
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 13
-7.
+Package hyperref Info: Option `breaklinks' set `true' on input line 126.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 126.
+\@quotelevel=\count420
+\@quotereset=\count421
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 12
+6.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1062,26 +1057,26 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
-37.
+26.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1089,16 +1084,16 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
 .mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count425
+\scratchcounter=\count422
 \scratchdimen=\dimen275
 \scratchbox=\box66
-\nofMPsegments=\count426
-\nofMParguments=\count427
+\nofMPsegments=\count423
+\nofMParguments=\count424
 \everyMPshowfont=\toks35
-\MPscratchCnt=\count428
+\MPscratchCnt=\count425
 \MPscratchDim=\dimen276
-\MPnumerator=\count429
-\makeMPintoPDFobject=\count430
+\MPnumerator=\count426
+\makeMPintoPDFobject=\count427
 \everyMPtoPDFconversion=\toks36
 )
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
@@ -1111,14 +1106,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 s.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \microtypecontext on input line 137.
+LaTeX Info: Redefining \microtypecontext on input line 126.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 137.
+LaTeX Info: Redefining \showhyphens on input line 126.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1173,7 +1168,7 @@ Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2021-06-01 L3 programming layer (loader) 
+(biblatex)             2021-06-18 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
@@ -1186,9 +1181,9 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 137.
-Package biblatex Info: Reference segment=0 on input line 137.
-Package hyperref Info: Link coloring OFF on input line 137.
+Package biblatex Info: Reference section=0 on input line 126.
+Package biblatex Info: Reference segment=0 on input line 126.
+Package hyperref Info: Link coloring OFF on input line 126.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1201,18 +1196,18 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 titlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count431
+\c@section@level=\count428
 )
-LaTeX Info: Redefining \ref on input line 137.
-LaTeX Info: Redefining \pageref on input line 137.
-LaTeX Info: Redefining \nameref on input line 137.
+LaTeX Info: Redefining \ref on input line 126.
+LaTeX Info: Redefining \pageref on input line 126.
+LaTeX Info: Redefining \nameref on input line 126.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 \makecvtitledetailsbox=\box67
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-63.
+52.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1222,28 +1217,28 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-63.
+52.
  (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-163.
+152.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-163.
+152.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 163.
+(Font)              <10> on input line 152.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 163.
+(Font)              <7> on input line 152.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 163.
+(Font)              <5> on input line 152.
 
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
@@ -1252,58 +1247,58 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 \makecvtitledetailswidth=\skip96
 \makecvtitlepicturewidth=\skip97
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 163.
+(Font)              <10.95> on input line 152.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 163.
+(Font)              <8> on input line 152.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 163.
-\blx@maxsegment@1=\count432
-\blx@sectionciteorder@1=\count433
-Package biblatex Info: Reference section=1 on input line 190.
-Package biblatex Info: Setting label 'refsection:1' on input line 190.
+(Font)              <6> on input line 152.
+\blx@maxsegment@1=\count429
+\blx@sectionciteorder@1=\count430
+Package biblatex Info: Reference section=1 on input line 179.
+Package biblatex Info: Setting label 'refsection:1' on input line 179.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 196.
-Package biblatex Info: Reference section=0 on input line 197.
-\blx@maxsegment@2=\count434
-\blx@sectionciteorder@2=\count435
-Package biblatex Info: Reference section=2 on input line 203.
-Package biblatex Info: Setting label 'refsection:2' on input line 203.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 186.
+Package biblatex Info: Reference section=0 on input line 187.
+\blx@maxsegment@2=\count431
+\blx@sectionciteorder@2=\count432
+Package biblatex Info: Reference section=2 on input line 191.
+Package biblatex Info: Setting label 'refsection:2' on input line 191.
 
 
-Package biblatex Warning: Segment '2' not found in section '2' on input line 20
-5.
+Package biblatex Warning: Segment '2' not found in section '2' on input line 19
+3.
 
-Package biblatex Info: Reference section=0 on input line 206.
-\blx@maxsegment@3=\count436
-\blx@sectionciteorder@3=\count437
-Package biblatex Info: Reference section=3 on input line 209.
-Package biblatex Info: Setting label 'refsection:3' on input line 209.
+Package biblatex Info: Reference section=0 on input line 194.
+\blx@maxsegment@3=\count433
+\blx@sectionciteorder@3=\count434
+Package biblatex Info: Reference section=3 on input line 197.
+Package biblatex Info: Setting label 'refsection:3' on input line 197.
 
-Package biblatex Warning: Segment '3' not found in section '3' on input line 21
-1.
+Package biblatex Warning: Segment '3' not found in section '3' on input line 19
+9.
 
 [1
 
 {C:/Users/mholland/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Package biblatex Info: Reference section=0 on input line 212.
-\blx@maxsegment@4=\count438
-\blx@sectionciteorder@4=\count439
-Package biblatex Info: Reference section=4 on input line 215.
-Package biblatex Info: Setting label 'refsection:4' on input line 215.
+Package biblatex Info: Reference section=0 on input line 200.
+\blx@maxsegment@4=\count435
+\blx@sectionciteorder@4=\count436
+Package biblatex Info: Reference section=4 on input line 203.
+Package biblatex Info: Setting label 'refsection:4' on input line 203.
 
 
-Package biblatex Warning: Segment '4' not found in section '4' on input line 21
-7.
+Package biblatex Warning: Segment '4' not found in section '4' on input line 20
+5.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 217.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 205.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-17.
+05.
 (C:\Users\mholland\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1311,7 +1306,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package biblatex Info: Reference section=0 on input line 218.
+Package biblatex Info: Reference section=0 on input line 206.
 
 [2] [3] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
@@ -1319,28 +1314,32 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 179 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 32478 strings out of 478864
- 607088 string characters out of 2847238
- 1424911 words of memory out of 3000000
- 49682 multiletter control sequences out of 15000+600000
+ 32231 strings out of 478838
+ 601762 string characters out of 2846598
+ 1423471 words of memory out of 3000000
+ 49465 multiletter control sequences out of 15000+600000
  480822 words of font info for 137 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,12n,97p,1379b,1529s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc
-}<C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10
-.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lms
-s10.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
-lmss12.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-lm/lmss17.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/lm/lmssbx10.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/lm/lmsso10.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/lm/lmsso12.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/lm/lmsso17.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/lm/lmtt10.pfb><C:/Users/mholland/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on main.pdf (3 pages, 245302 bytes).
+ 100i,12n,97p,1379b,1549s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
+s/lm/lm-ec.enc}<C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/lm/lmcsc10.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/lm/lmss10.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/lm/lmss12.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/lm/lmss17.pfb><C:/Users/mholland/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/lm/lmssbx10.pfb><C:/Users/mholland/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/mholland/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/mholland/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/lm/lmsso17.pfb><C:/Users/mholland/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/mholland/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on main.pdf (3 pages, 245319 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)

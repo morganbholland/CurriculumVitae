@@ -1,53 +1,53 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'main.blg'
-[131] biber-MSWIN64:340> INFO - === 
-[170] Biber.pm:415> INFO - Reading 'main.bcf'
-[300] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[300] Biber.pm:952> INFO - Found 1 citekeys in bib section 1
-[300] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[300] Biber.pm:952> INFO - Found 1 citekeys in bib section 2
-[301] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[301] Biber.pm:952> INFO - Found 2 citekeys in bib section 3
-[301] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[301] Biber.pm:952> INFO - Found 2 citekeys in bib section 4
-[301] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[338] Biber.pm:4340> INFO - Processing section 1
-[350] Biber.pm:4531> INFO - Looking for bibtex format file 'jmp.bib' for section 1
-[402] bibtex.pm:1689> INFO - LaTeX decoding ...
-[413] bibtex.pm:1494> INFO - Found BibTeX data source 'jmp.bib'
-[451] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[452] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[452] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[452] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[453] Biber.pm:4340> INFO - Processing section 2
-[453] Biber.pm:4531> INFO - Looking for bibtex format file 'jmp.bib' for section 2
-[480] Biber.pm:4531> INFO - Looking for bibtex format file 'wp.bib' for section 2
-[530] bibtex.pm:1689> INFO - LaTeX decoding ...
-[534] bibtex.pm:1494> INFO - Found BibTeX data source 'wp.bib'
-[548] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[548] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[548] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[548] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[550] Biber.pm:4340> INFO - Processing section 3
-[550] Biber.pm:4531> INFO - Looking for bibtex format file 'jmp.bib' for section 3
-[576] Biber.pm:4531> INFO - Looking for bibtex format file 'wp.bib' for section 3
-[604] Biber.pm:4531> INFO - Looking for bibtex format file 'wip.bib' for section 3
-[666] bibtex.pm:1689> INFO - LaTeX decoding ...
-[671] bibtex.pm:1494> INFO - Found BibTeX data source 'wip.bib'
-[691] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[691] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[691] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[691] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[693] Biber.pm:4340> INFO - Processing section 4
-[694] Biber.pm:4531> INFO - Looking for bibtex format file 'jmp.bib' for section 4
-[724] Biber.pm:4531> INFO - Looking for bibtex format file 'wp.bib' for section 4
-[754] Biber.pm:4531> INFO - Looking for bibtex format file 'wip.bib' for section 4
-[785] Biber.pm:4531> INFO - Looking for bibtex format file 'industry.bib' for section 4
-[846] bibtex.pm:1689> INFO - LaTeX decoding ...
-[851] bibtex.pm:1494> INFO - Found BibTeX data source 'industry.bib'
-[864] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[864] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[864] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[864] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[870] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[873] bbl.pm:757> INFO - Output to main.bbl
+[133] biber-MSWIN64:340> INFO - === 
+[176] Biber.pm:415> INFO - Reading 'main.bcf'
+[298] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[299] Biber.pm:952> INFO - Found 1 citekeys in bib section 1
+[299] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[299] Biber.pm:952> INFO - Found 1 citekeys in bib section 2
+[299] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[299] Biber.pm:952> INFO - Found 2 citekeys in bib section 3
+[299] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[299] Biber.pm:952> INFO - Found 2 citekeys in bib section 4
+[299] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[335] Biber.pm:4340> INFO - Processing section 1
+[348] Biber.pm:4531> INFO - Looking for bibtex format file 'jmp.bib' for section 1
+[413] bibtex.pm:1689> INFO - LaTeX decoding ...
+[418] bibtex.pm:1494> INFO - Found BibTeX data source 'jmp.bib'
+[456] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[456] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[456] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[456] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[458] Biber.pm:4340> INFO - Processing section 2
+[458] Biber.pm:4531> INFO - Looking for bibtex format file 'jmp.bib' for section 2
+[501] Biber.pm:4531> INFO - Looking for bibtex format file 'wp.bib' for section 2
+[556] bibtex.pm:1689> INFO - LaTeX decoding ...
+[558] bibtex.pm:1494> INFO - Found BibTeX data source 'wp.bib'
+[572] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[572] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[572] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[572] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[574] Biber.pm:4340> INFO - Processing section 3
+[574] Biber.pm:4531> INFO - Looking for bibtex format file 'jmp.bib' for section 3
+[602] Biber.pm:4531> INFO - Looking for bibtex format file 'wp.bib' for section 3
+[630] Biber.pm:4531> INFO - Looking for bibtex format file 'wip.bib' for section 3
+[686] bibtex.pm:1689> INFO - LaTeX decoding ...
+[689] bibtex.pm:1494> INFO - Found BibTeX data source 'wip.bib'
+[706] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[706] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[706] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[706] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[708] Biber.pm:4340> INFO - Processing section 4
+[708] Biber.pm:4531> INFO - Looking for bibtex format file 'jmp.bib' for section 4
+[737] Biber.pm:4531> INFO - Looking for bibtex format file 'wp.bib' for section 4
+[765] Biber.pm:4531> INFO - Looking for bibtex format file 'wip.bib' for section 4
+[794] Biber.pm:4531> INFO - Looking for bibtex format file 'industry.bib' for section 4
+[860] bibtex.pm:1689> INFO - LaTeX decoding ...
+[863] bibtex.pm:1494> INFO - Found BibTeX data source 'industry.bib'
+[877] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[877] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[877] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[877] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[885] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[889] bbl.pm:757> INFO - Output to main.bbl
